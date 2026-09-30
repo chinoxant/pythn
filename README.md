@@ -18,10 +18,10 @@ Each notebook contains:
 
 
 ## Progress
-[x] Lists
-[ ] Dictionaries
-[ ] Sets
-[ ] Tuples
+- [x] Lists
+- [ ] Dictionaries
+- [ ] Sets
+- [ ] Tuples
 
 ## Goal
 Build a solid understanding of python data structures and become comfortable using them in practical problems.
