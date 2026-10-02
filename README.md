@@ -1,14 +1,14 @@
-Python Data Structure
-A practical learning series covering python's built-in data structures through explanations, examples and practical exercises.
+Python Fundamentals
+A practical learning series covering python's fundamentals through explanations, examples and practical exercises.
 
 ## Topics
-- lists
-- Dictionaries
-- Sets
-- Tuples
+- Arithmetic operator
+- Comparison operators
+- Assignment operators
+- Logical operators
 
 What i'm learning
-This repository documents my progress as I learn and practice python data structures.
+This repository documents my progress as I learn and practice python fundamentals.
 
 Each notebook contains:
 - Concept explanations
@@ -18,10 +18,10 @@ Each notebook contains:
 
 
 ## Progress
-- [x] Lists
-- [ ] Dictionaries
-- [ ] Sets
-- [ ] Tuples
+- [x] Arithmetic operator
+- [ ] Comparison operators
+- [ ] Assignment operators
+- [ ] Logical operators
 
 ## Goal
-Build a solid understanding of python data structures and become comfortable using them in practical problems.
+Build a solid understanding of python fundamentals and become comfortable using them in practical problems.
